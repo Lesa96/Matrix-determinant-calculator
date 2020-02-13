@@ -1,0 +1,11 @@
+﻿  IzvrsnaJedinica.cpp
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\izvrsnajedinica_clientserver\izvrsnajedinica.cpp(213): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\izvrsnajedinica_clientserver\izvrsnajedinica.cpp(61): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: see declaration of 'itoa'
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\izvrsnajedinica_clientserver\izvrsnajedinica.cpp(104): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\izvrsnajedinica_clientserver\izvrsnajedinica.cpp(275): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: see declaration of 'itoa'
+  Source.cpp
+  Generating Code...
+  IzvrsnaJedinica_clientServer.vcxproj -> D:\Fax\IV godina\Blok1\Poslednje\WinSock_TCP_Blocking\Debug\IzvrsnaJedinica_clientServer.exe

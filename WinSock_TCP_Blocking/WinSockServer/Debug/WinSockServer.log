@@ -1,0 +1,7 @@
+﻿  Server.cpp
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\winsockserver\server.cpp(173): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1334): note: see declaration of 'itoa'
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\winsockserver\server.cpp(623): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\winsockserver\server.cpp(600): warning C4101: 'j': unreferenced local variable
+d:\fax\iv godina\blok1\poslednje\winsock_tcp_blocking\winsockserver\server.cpp(600): warning C4101: 'i': unreferenced local variable
+  WinSockServer.vcxproj -> D:\Fax\IV godina\Blok1\Poslednje\WinSock_TCP_Blocking\Debug\WinSockServer.exe
