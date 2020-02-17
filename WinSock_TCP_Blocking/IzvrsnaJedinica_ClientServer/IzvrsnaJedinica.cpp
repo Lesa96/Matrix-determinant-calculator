@@ -570,7 +570,7 @@ void OtvoriDrugiProces(short Port,int i)
 	ZeroMemory(&pi, sizeof(pi));
 	BOOL bCreateProcess = NULL;
 
-	bCreateProcess = CreateProcessA("C:\\Users\\Sasa Dragomirovic\\Desktop\\Poslednje\\WinSock_TCP_Blocking\\Debug\\IzvrsnaJedinica_clientServer.exe",
+	bCreateProcess = CreateProcessA("..\\Debug\\IzvrsnaJedinica_clientServer.exe",
 		zaSlanje, NULL, NULL, TRUE, CREATE_NEW_CONSOLE, NULL, NULL, &si, &pi);
 	//drugi - parametre koje saljemo
 }
